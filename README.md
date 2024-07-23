@@ -1,4 +1,4 @@
 # Info.md
 
-dalvms120
-dalvms150
+asyvms120
+valvms150
